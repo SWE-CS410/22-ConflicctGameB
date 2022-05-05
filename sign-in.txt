@@ -6,4 +6,5 @@
        NAME              |   BC Email
       Sara Farag         |   sara.farag@bellevuecollege.edu
       Oliver Waller	 |   o.waller@bellevuecollege.edu
+      Elena Ochkina      |   elena.ochkina@bellevuecollege.edu 
     
